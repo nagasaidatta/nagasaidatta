@@ -1,4 +1,4 @@
-# Naga Sai Datta
+# Naga Sai Datta Boddu
 
 <p>
   <a href="mailto:nagasaidatta.boddu@gmail.com">
@@ -12,7 +12,9 @@
   </a>
 </p>
 
-I'm a **CS Undergraduate** and **aspiring Software Developer**. I enjoy solving problems, learning how things work, and building projects. I'm currently focused on **Java, DSA, Web Development**.
+- I'm a **CS Undergraduate** and **aspiring Software Developer**.
+- I enjoy solving problems, learning how things work, and building projects.
+- I'm currently focused on **Java, DSA, Web Development**.
 
 ### Tech Stack
 <p>
