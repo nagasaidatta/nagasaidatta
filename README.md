@@ -7,7 +7,7 @@
   <a href="https://linkedin.com/in/nagasaidatta">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge" />
   </a>
-  <a href="https://nagasaidatta-portfolio.vercel.app/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge" />
   </a>
 </p>
